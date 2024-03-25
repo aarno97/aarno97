@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @aarno97
-- 👀 I’m interested in development, testing, and utilizing new technoligies! 
-- 🌱 I’m currently learning about SpringBoot and React
+- 👀 I’m interested in developing, testing, and utilizing new technologies! 
+- 🌱 I’m currently learning about Python, Flask, and testing ideology
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: [E-Mail](mailto:arnold.aaron97@icloud.com)
 
